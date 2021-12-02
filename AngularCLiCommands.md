@@ -2,7 +2,7 @@
 ## This conatins all commnds for using angular cli
 
 => Create component
-> ng g component component-name
+> `ng g component component-name`
 Ex : ng g component student
 
 => create flat component and skip test files
