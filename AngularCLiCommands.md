@@ -3,11 +3,12 @@
 
 => Create component
 > `ng g component component-name`
-Ex : ng g component student
+> Ex : ng g component student
+
 
 => create flat component and skip test files
 > ng g component component-name -skip-tests=true --flat=true 
-Ex : ng g component student --skip-tests=true --flat=true 
+> Ex : ng g component student --skip-tests=true --flat=true 
 
 => Create component inside module ,by flat and skipping test files 
 > ng g component  module_name/new_gen_component_name -skip-tests=true --flat=true
