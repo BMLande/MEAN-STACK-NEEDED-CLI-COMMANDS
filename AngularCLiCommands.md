@@ -1,5 +1,5 @@
 
-This conatins all commnds for using angular cli
+## This conatins all commnds for using angular cli
 
 => Create component
 > ng g component component-name
