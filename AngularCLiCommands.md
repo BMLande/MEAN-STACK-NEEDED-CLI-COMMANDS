@@ -3,6 +3,7 @@
 
 => Create component
 > `ng g component component-name`
+> 
 > Ex : ng g component student
 
 
