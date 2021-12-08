@@ -23,6 +23,10 @@
 > ng g component  module_name/new_gen_component_name -skip-tests=true --flat=true
 Ex : ng g component  users/student --skip-tests=true --flat=true 
 
+=> add component inside nested modeule path
+`ng g component views/city/city-operation  --skip-tests=true --flat=true`
+
+
 => Specific help on Component
 >  ng g c --help    [here you get cli - flags for component]  
 
