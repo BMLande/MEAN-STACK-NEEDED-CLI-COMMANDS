@@ -1,5 +1,13 @@
 
-## This conatins all commnds for using angular cli
+## This conatins all commnds for using angular cli > **10**
+
+> `npm install -g @angular/cli`
+
+#### On windows you needs to add below paths to access all ng commands from CMD
+> ADD -> C:\YOUR_USERNAME\bhagvat\AppData\Roaming\npm\node_modules\@angular\cli\bin
+> ADD -> C:\YOUR_USERNAME\bhagvat\AppData\Roaming\npm
+
+## Install Angular CLI , Required Nodejs installed 
 
 => Create component
 > `ng g component component-name`
